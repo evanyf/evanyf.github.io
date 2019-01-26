@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2Funcategorized%2FCFA%20Level%202%20%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%2F</url>
+    <content type="text"><![CDATA[Volume 1Quantitative MethodsLinear regression $Y_i=b_0+b_1X_i+\epsilon_i, i=1,…,n$， 最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。$b_0$和$b_1$是regression coefficients。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[折腾Github+Git+hexo]]></title>
     <url>%2F%E9%97%B2%E8%AF%9D%2F%E6%8A%98%E8%85%BEGithub-Git-hexo%2F</url>
     <content type="text"><![CDATA[折腾开始自学Python，发现很多细节只看一遍之后一定会忘，想找个地方记录一下；再有，过去的2018年发生了不少事情，刚开始的2019年及以后，想必在陌生的枫叶国也会发生不少值得记录的事情，于是……搞个博客吧！免费稳定好维护那种🤓 折腾经过换了几台电脑（公司笔记本、家里台式机，最后换到新买的美帝良心想X1），算是熟悉了Github page、Git和Hexo最基础的配置使用。搭建配置的过程就不赘述了，网上各种资源、教程。 PS. Git g -d之后可能会有一些延迟…… 完。 第一篇文章就这样匆匆结束了哈哈哈，看看自己能悄咪咪地折腾、记录多久吧！]]></content>
