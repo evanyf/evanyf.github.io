@@ -1842,7 +1842,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffc21b;
+  background: #3025ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2790,6 +2790,15 @@ pre .javascript .function {
   padding-left: 0;
   padding-right: 260px;
 }
+.header {
+  width: 80%;
+}
+.container .main-inner {
+  width: 80%;
+}
+.content-wrap {
+  width: calc(100% - 260px);
+}
 .site-brand-wrapper {
   position: relative;
 }
@@ -3042,4 +3051,17 @@ pre .javascript .function {
   color: #fff;
   line-height: 30px;
   letter-spacing: 3px;
+}
+.posts-expand .post-tags a {
+  border-bottom: none;
+  margin-right: 0px;
+  font-size: 13px;
+  padding: 0px 5px;
+  border-radius: 3px;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0s;
+}
+.posts-expand .post-tags a:hover {
+  background: #eee;
 }
