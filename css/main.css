@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff63ff;
+  background: #ff08f1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3028,4 +3028,11 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+.site-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 30px;
+  letter-spacing: 3px;
 }
