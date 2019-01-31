@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[曾经的你]]></title>
     <url>%2F%E9%97%B2%E8%AF%9D%2F%E6%9B%BE%E7%BB%8F%E7%9A%84%E4%BD%A0%2F</url>
-    <content type="text"><![CDATA[刚刚刷朋友圈看到一篇关于许巍的文章，许巍竟然已经50岁了，时间也过得太快了吧…… 记忆中，许巍跟我是同一代人啊 😵 时间真的过得很快，一转眼，已经是“三字头”了，曾经的我已不是我。 💙 **惟愿永葆「年少的心」**💙]]></content>
+    <content type="text"><![CDATA[刚刚刷朋友圈看到一篇关于许巍的文章，许巍竟然已经50岁了，时间也过得太快了吧…… 记忆中，许巍跟我是同一代人啊 😵 时间真的过得很快，一转眼，已经是“三字头”了，曾经的我已不是我。 💙 惟愿永葆年少的心 💙]]></content>
       <categories>
         <category>闲话</category>
       </categories>
@@ -27,7 +27,7 @@
   <entry>
     <title><![CDATA[CFA Level 2 笔记（一）]]></title>
     <url>%2FCFA%2FCFA_Notes_1%2F</url>
-    <content type="text"><![CDATA[Quantitative Methods Linear regression Yi=b0+b1Xi+ϵi,i=1,...,nY_i=b_0+b_1X_i+\epsilon_i, i=1,...,nYi​=b0​+b1​Xi​+ϵi​,i=1,...,n， 最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。b0b_0b0​和b1b_1b1​是__regression coefficients__。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
+    <content type="text"><![CDATA[Quantitative Methods Linear regression Yi=b0+b1Xi+ϵi,i=1,...,nY_i=b_0+b_1X_i+\epsilon_i, i=1,...,nYi​=b0​+b1​Xi​+ϵi​,i=1,...,n， 最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。b0b_0b0​和b1​b_1​b1​​是__regression coefficients__。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
       <categories>
         <category>CFA</category>
       </categories>
