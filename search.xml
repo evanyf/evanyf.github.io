@@ -27,7 +27,7 @@
   <entry>
     <title><![CDATA[CFA Level 2 笔记（一）]]></title>
     <url>%2FCFA%2FCFA_Notes_1%2F</url>
-    <content type="text"><![CDATA[Quantitative Methods Linear regression Yi=b0+b1Xi+ϵi,i=1,...,nY_i=b_0+b_1X_i+\epsilon_i, i=1,...,nYi​=b0​+b1​Xi​+ϵi​,i=1,...,n ，最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。 b0b_0b0​ 和 b1​b_1​b1​​ 是regression coefficients。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
+    <content type="text"><![CDATA[Quantitative Methods Linear regression Yi=b0+b1Xi+ϵi,i=1,...,n​Y_i=b_0+b_1X_i+\epsilon_i, i=1,...,n​Yi​=b0​+b1​Xi​+ϵi​,i=1,...,n​ ，最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。b0​b_0​b0​​ 和 b1​b_1​b1​​ 是regression coefficients。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
       <categories>
         <category>CFA</category>
       </categories>
