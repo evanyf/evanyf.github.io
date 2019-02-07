@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[己亥年初三]]></title>
+    <url>%2F%E9%97%B2%E8%AF%9D%2F%E5%B7%B1%E4%BA%A5%E5%B9%B4%E5%88%9D%E4%B8%89%2F</url>
+    <content type="text"><![CDATA[又是新年，似乎越来越没年味儿了。 照常的三十儿家庭聚餐，初一吃饺子。昨天初二，去看了网上吹爆的「流浪地球」。截至这个时刻，豆瓣评分是8.1，从评分看，堪当“中国科幻片元年”扛把子了。 Emmm…… 不知道是不是期待太高，我们感觉很一般啊。场景唰唰过，特效噼里啪啦砸，眼花缭乱一顿炫技，却总觉得人物、剧情和感情的展开太过仓促。看到豆瓣和朋友圈扎堆儿的叫好，还是在这里悄悄地说吧——中国科幻大作应该还有很长的路要走吧…… 回家后看了下豆瓣知乎，还是有人跟我们观影体验相仿的，但基本淹没于五星好评中。可能这也是一种政治正确吧。 那天刷知乎，无意中发现一本原连载于豆瓣的抗癌日记《二十一岁以及我的余生》，写得挺好的。文字带点儿文学性，但完全不会觉得油滑和刻意，能从作者患病后悲怆的心情中慢慢感受到平淡从容和希望。想想作者还那么年轻，真是一声叹息又无可奈何。 越来越多的端倪都在提醒着自己，似乎是上了岁数了。白开水赛过饮料，热水赛过冰水；开始喜欢看「人间世」这样的医疗纪录片，就跟看多了能掌握点儿医学知识似的🐷 虽然，还是存在不良生活习惯，但至少有负罪感了呀（苦笑 再不会像年轻时，肆意糟践身体，无所知且无所畏惧。 2020年的春节，很有可能要在加拿大度过了，希望到时候不会太冷清。 记得5岁那年，我跟爸妈一起回爸爸的老家过了个春节，特别新奇。一片片的油菜花地，田间的空气湿润又好闻，街道里烧柴火的味道，便宜但好玩的摔炮儿，后院的大肥猪，奶奶煮的巨大无比的汤圆，房子里的木梯吱吱呀呀摇摇晃晃…… Anyway，己亥年已到，今年也要加油啊！ 祝愿我爱的人和爱我的人一年平平安安，快快乐乐，身体健康，顺心如意。 祝自己能考过CFA二级，能顺利在加拿大安家乐业。]]></content>
+      <categories>
+        <category>闲话</category>
+      </categories>
+      <tags>
+        <tag>碎碎念</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[曾经的你]]></title>
     <url>%2F%E9%97%B2%E8%AF%9D%2F%E6%9B%BE%E7%BB%8F%E7%9A%84%E4%BD%A0%2F</url>
     <content type="text"><![CDATA[刚刚刷朋友圈看到一篇关于许巍的文章，许巍竟然已经50岁了，时间也过得太快了吧…… 记忆中，许巍跟我是同一代人啊 😵 时间真的过得很快，一转眼，已经是“三字头”了，曾经的我已不是我。 💙 惟愿永葆年少的心 💙]]></content>
@@ -8,8 +19,8 @@
         <category>闲话</category>
       </categories>
       <tags>
-        <tag>碎碎念</tag>
         <tag>许巍</tag>
+        <tag>碎碎念</tag>
       </tags>
   </entry>
   <entry>
@@ -20,14 +31,14 @@
         <category>枫叶国</category>
       </categories>
       <tags>
-        <tag>加拿大</tag>
         <tag>碎碎念</tag>
+        <tag>加拿大</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[CFA Level 2 笔记（一）]]></title>
     <url>%2FCFA%2FCFA_Notes_1%2F</url>
-    <content type="text"><![CDATA[Quantitative Methods Linear regression $Y_i=b_0+b_1X_i+\epsilon _i, i=1,...,n$ ，最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。$b_0$ 和 $b_1$ 是regression coefficients。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
+    <content type="text"><![CDATA[Quantitative Methods Linear regression Yi=b0+b1Xi+ϵi,i=1,...,nY_i=b_0+b_1X_i+\epsilon _i, i=1,...,nYi​=b0​+b1​Xi​+ϵi​,i=1,...,n ，最后一个字母是error term——the portion of the dependent variable that cannot be explained by the independent variable。b0b_0b0​ 和 b1b_1b1​ 是regression coefficients。 一般使用Regression analysis处理两类数据：cross-sectional和time series。 cross-sectional data：many observations on X and Y for the same time period；from different companies, asset classes, funds, people, etc time-series data：use many observations from different time periods for the same company, funds, country or other entity.]]></content>
       <categories>
         <category>CFA</category>
       </categories>
